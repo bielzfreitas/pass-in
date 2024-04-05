@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PassInApplication<pass-in>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "rocketseat.com.passin.PassInApplication",
+            "projectName": "pass-in",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
